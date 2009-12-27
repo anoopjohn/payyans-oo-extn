@@ -1,0 +1,15 @@
+Installation instructions
+
+a) Copy map files to /usr/share/payyans/maps/
+b) Copy script to ~/.openoffice.org/3/user/Scripts/python/
+c) Open oowriter tools >> customize >> toolbars >> Add 
+   >> Category - OpenOffice.org Macros >> My Macros  
+   and select both macros - A2U and U2A
+   This will create two buttons on the toolbar. Make sure that toolbar standard
+   is selected and so is save in openoffice.org Writer
+
+#TODO
+1) Allow script to be managed via extensions 
+2) Automatically create the buttons on installation of extension
+3) Create a variant that will automatically convert any opened document from
+   ASCII to Unicode with a different file name
