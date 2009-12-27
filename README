@@ -7,6 +7,7 @@ c) Open oowriter tools >> customize >> toolbars >> Add
    and select both macros - A2U and U2A
    This will create two buttons on the toolbar. Make sure that toolbar standard
    is selected and so is save in openoffice.org Writer
+d) You can get Payyans and up-to-date map files from http://wiki.smc.org.in/Payyans  
 
 #TODO
 1) Allow script to be managed via extensions 
